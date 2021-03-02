@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>155974883743-qf4cchbg0s8bd8kk2b2u45nvibk5p6ll.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.155974883743-qf4cchbg0s8bd8kk2b2u45nvibk5p6ll</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCJsrCj8Z9ZSecx4wYYm-biLyMniqYOIUs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>155974883743</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.velialan.swipephotoapp</string>
+	<key>PROJECT_ID</key>
+	<string>swipe-photo-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>swipe-photo-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:155974883743:ios:59a6b6933403acc49605aa</string>
+</dict>
+</plist>

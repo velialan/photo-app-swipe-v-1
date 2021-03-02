@@ -17,9 +17,13 @@
       "**/*"
     ],
     "ios": {
+      "bundleIdentifier": "com.velialan.swipephotoapp",
+      "googleServicesFile": "./GoogleService-Info.plist",
       "supportsTablet": true
     },
     "android": {
+      "package": "com.velialan.swipephotoapp",
+      "googleServicesFile": "./google-services.json",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
@@ -27,6 +31,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "npm install --global expo-cli\n\nexpo init photo-app-swipe-v-1\n\nKullanılan paketler:\n\n*firebase/firestore\n\n*react-native-deck-swiper\n\n*react-native-reanimated\n\n*@expo/vector-icons\n\nexpo start\n\nResimlerin sıralaması database'deki(firestore) location alanına göre. Artan(asc) sıraya göre listelendi.\n\nDatabase canlı olarak dinleniyor. Herhangi bir değişiklik anında uygulamaya yansır.\n"
   }
 }
